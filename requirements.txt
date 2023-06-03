@@ -1,0 +1,9 @@
+evaluate
+librosa
+numpy
+torch
+wandb
+transformers
+jiwer
+accelerate
+tensorboardX

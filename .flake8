@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 88
+extend-ignore = E203, # whitespace before ':'
+                E741, # ambiguous variable name
+                W503  # line-break before binary operator
